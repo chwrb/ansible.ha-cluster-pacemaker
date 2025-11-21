@@ -33,6 +33,11 @@ galaxy_info:
         - 'bullseye'
         - 'bookworm'
         - 'trixie'
+    - name: Ubuntu
+      versions:
+        - 'focal'
+        - 'jammy'
+        - 'noble'
   galaxy_tags:
     - clustering
     - pacemaker
